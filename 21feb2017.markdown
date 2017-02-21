@@ -1,9 +1,9 @@
-=título=
+#título
 
 Anoche soñé con refugiados que buscaban unas manzanas en el campo
 
-==subtítulo==
+##subtítulo
 
-*eran rusos
-*estaban en un campo
-*tenían comida
+* eran rusos
+* estaban en un campo
+* tenían comida
